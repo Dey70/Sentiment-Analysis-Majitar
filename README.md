@@ -132,6 +132,8 @@ Review    : Food was okay but expensive
 
 ## 👨‍💻 Author
 
-**[Your Name]** · Roll No: [Your Roll No]  
+**RAJDEEP DEY** · Register No: - 202300325  
 B.Tech — Computer Science & Engineering  
-Course: Natural Language Processing | 2024–25
+Course: Natural Language Processing | 2023-2027
+Sikkim Manipal Institute of Technology
+Majitar, East Sikkim, India
